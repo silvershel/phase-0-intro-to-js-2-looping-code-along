@@ -1,6 +1,3 @@
-
-
-
 //build a function named writeCards() 
 //that accepts two arguments: an array of string names, and an event name.
 
